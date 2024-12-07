@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Recipes</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Recipes</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:35:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appetizer</title>
+      <link>http://localhost:1313/categories/appetizer/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/appetizer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bread</title>
+      <link>http://localhost:1313/categories/bread/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/bread/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cake</title>
+      <link>http://localhost:1313/categories/cake/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/cake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cookie</title>
+      <link>http://localhost:1313/categories/cookie/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/cookie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desert</title>
+      <link>http://localhost:1313/categories/desert/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/desert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/categories/dessert/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doughnut</title>
+      <link>http://localhost:1313/categories/doughnut/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/doughnut/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main</title>
+      <link>http://localhost:1313/categories/main/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/main/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pie</title>
+      <link>http://localhost:1313/categories/pie/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/pie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick</title>
+      <link>http://localhost:1313/categories/quick/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/quick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side</title>
+      <link>http://localhost:1313/categories/side/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/side/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yeast</title>
+      <link>http://localhost:1313/categories/yeast/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/categories/yeast/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

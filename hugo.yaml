@@ -1,0 +1,36 @@
+---
+baseURL: http://receipies.lumnah.email/
+languageCode: en-us
+title: Recipes
+theme: ["github.com/adityatelange/hugo-PaperMod"]
+taxonomies:
+  category: categories
+module:
+  noVendor: "*"
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  ShowBreadCrumbs: true
+  UseHugoToc: true
+  showtoc: true
+  tocopen: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+
+  editPost:
+    URL: "https://github.com/sedalu/recipies/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Categories"
+      url: "/categories"
+      weight: 2
