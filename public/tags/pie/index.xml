@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pie on Recipes</title>
+    <link>http://localhost:1313/tags/pie/</link>
+    <description>Recent content in Pie on Recipes</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:35:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fresh Peach Pie</title>
+      <link>http://localhost:1313/posts/fresh-peach-pie/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fresh-peach-pie/</guid>
+      <description>&lt;h1 id=&#34;fresh-peach-pie&#34;&gt;Fresh Peach Pie&lt;/h1&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;3/4 c sugar&lt;/li&gt;
+&lt;li&gt;2 Tbsp cornstarch&lt;/li&gt;
+&lt;li&gt;1/4 tsp salt&lt;/li&gt;
+&lt;li&gt;1/3 c water&lt;/li&gt;
+&lt;li&gt;4 c peaches&lt;/li&gt;
+&lt;li&gt;1 Tbsp butter&lt;/li&gt;
+&lt;li&gt;1/2 tsp lemon rind&lt;/li&gt;
+&lt;li&gt;1 Tbsp lemon juice&lt;/li&gt;
+&lt;li&gt;1/2 tsp flavoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Combine sugar, cornstarch, and salt in saucepan and stir in water and peaches. Bring to boil for 1 min. Remove and stir in butter, lemon rind, lemon juice and flavoring. Cool. Pour into pie shell and put strips as top crust.&lt;/li&gt;
+&lt;li&gt;Bake for 45 min @ 425 F&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Never-Fail Pie Crust</title>
+      <link>http://localhost:1313/posts/never-fail-pie-crust/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/never-fail-pie-crust/</guid>
+      <description>&lt;h1 id=&#34;never-fail-pie-crust&#34;&gt;Never-Fail Pie Crust&lt;/h1&gt;
+&lt;p&gt;Yield: pastry for 2 pie crusts.&lt;/p&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cup Shortening&lt;/li&gt;
+&lt;li&gt;2 cups Flour&lt;/li&gt;
+&lt;li&gt;1 tsp Salt&lt;/li&gt;
+&lt;li&gt;1 tbsp Vinegar&lt;/li&gt;
+&lt;li&gt;1/3 cup Milk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Cut shortening into flour and salt. Add vinegar to milk; combine at once with flour mixture.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Strawberry Pie</title>
+      <link>http://localhost:1313/posts/strawberry-pie/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/strawberry-pie/</guid>
+      <description>&lt;h1 id=&#34;strawberry-pie&#34;&gt;Strawberry Pie&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

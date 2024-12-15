@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Appetizer on Recipes</title>
+    <link>http://localhost:1313/tags/appetizer/</link>
+    <description>Recent content in Appetizer on Recipes</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 12:35:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chopped Beef Cheese Ball</title>
+      <link>http://localhost:1313/posts/chopped-beef-cheese-ball/</link>
+      <pubDate>Sat, 07 Dec 2024 12:35:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/chopped-beef-cheese-ball/</guid>
+      <description>&lt;h1 id=&#34;chopped-beef-cheese-ball&#34;&gt;Chopped Beef Cheese Ball&lt;/h1&gt;
+&lt;p&gt;From Cindy Graham&lt;/p&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pkg cream cheese&lt;/li&gt;
+&lt;li&gt;1 tsp mustard&lt;/li&gt;
+&lt;li&gt;1 tsp mayo&lt;/li&gt;
+&lt;li&gt;1 tsp milk&lt;/li&gt;
+&lt;li&gt;1 tsp onion salt&lt;/li&gt;
+&lt;li&gt;1 pkg dry beef ,chopped&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mix all ingredients together and shape into ball. Refrigerate.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
