@@ -22,7 +22,7 @@ params:
   disableAnchoredHeadings: true
 
   editPost:
-    URL: "https://github.com/sedalu/recipies/content"
+    URL: "https://github.com/sedalu/recipes/tree/main/content"
     Text: "Edit" # edit text
     appendFilePath: true # to append file path to Edit link
 
