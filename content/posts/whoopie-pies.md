@@ -3,7 +3,7 @@ date: "2024-12-07T12:35:31-05:00"
 draft: false
 title: "Whoopie Pies"
 toc: true
-categories: ["Desert"]
+categories: ["Dessert"]
 ---
 
 # Whoopie Pies
