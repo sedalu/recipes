@@ -6,8 +6,6 @@ toc: true
 categories: ["Dessert", "Cookie"]
 ---
 
-# Easter Eggs
-
 Yield: 3 1/2 dozen
 
 Meme Lumnah served with hard boiled eggs every Easter and Christmas breakfast to become favorite family tradition.
@@ -16,7 +14,7 @@ Meme Lumnah served with hard boiled eggs every Easter and Christmas breakfast to
 
 - 2/3 c shortening
 - 2 1/4 c sugar
-- 2 c mik
+- 2 c milk
 - 2 eggs
 - 4 tsp vanilla
 - 6 c flour
