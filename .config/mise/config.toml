@@ -2,4 +2,4 @@
 experimental = true
 
 [tools]
-"go:github.com/gohugoio/hugo" = "latest"
+"ubi:gohugoio/hugo" = { version = "0.139.4", matching = "extended" }
